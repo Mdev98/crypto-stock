@@ -1,4 +1,4 @@
-# TravelAdvisor
+# CryptoStock
 
 CryptoStock is a Python web scraper that scrapes data on crypto stats from a crypto website.
 It retrieves data such as name, price, rate. The scraped data is then saved to a JSON file and 
